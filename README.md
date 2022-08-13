@@ -4,4 +4,4 @@
 
 It is a markdown file in this repository
 
-![Alt Text](landing\_1.gif)
+![Alt Text](notebook01\_landing\_1.gif)
