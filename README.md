@@ -1,7 +1,5 @@
 # IBM_data_analysis_course10_coursera
 
-## Editing the file
+The creation of this repository is a part of the last course of the "IBM Data Science Professional Specialization"
 
-It is a markdown file in this repository
-
-![Alt Text](images/notebook01\_landing\_1.gif)
+<a href="[about.html](https://www.coursera.org/professional-certificates/ibm-data-science)" title="[About Me](https://www.coursera.org/professional-certificates/ibm-data-science)">[About Me](https://www.coursera.org/professional-certificates/ibm-data-science)</a>
